@@ -9,7 +9,7 @@ metadata:
     - llamaindex
     - python
 spec:
-  owner: web@example.com
+  owner: user:guest
   type: website
   parameters:
     - title: Provide some simple information
